@@ -1,0 +1,5 @@
+esta es una historia de como aprender a programar
+
+con un repositorio local llamado git
+
+aprendido en clases de platzi con freddy
