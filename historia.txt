@@ -1,5 +1,5 @@
-esta es una historia de como aprender a programar
+Esta es la historia de Freddy Vega
 
-con un repositorio local llamado git
+Freddy Vega tiene 32 años y nació en Colombia
 
-ma�ana nos enfocaremos en su vida laboral
+Mañana nos enfocaremos en su vida laboral
