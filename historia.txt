@@ -1,11 +1,5 @@
-﻿esta es una historia de como aprender a programar
+esta es una historia de como aprender a programar
 
 con un repositorio local llamado git
 
-Jorge Castorena tiene 16 años en el mundo de desarrollo y muchas cosas aun no sabe que no sabe
-
-hablaremos un poco de su vida y obra maestra
-
-aprendiendo en clases de platzi con freddy
-
-en camara parece guapo pero la verdad no tanto
+ma�ana nos enfocaremos en su vida laboral
